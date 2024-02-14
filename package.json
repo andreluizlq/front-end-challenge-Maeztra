@@ -1,7 +1,7 @@
 {
   "name": "desafio-maeztra-tech",
   "version": "0.1.0",
-  "homepage": "https://andreluizlq.github.io/front-end-challenge-Maeztra",
+  "homepage": "https://andreluizlq.github.io/front-end-challenge-maeztra",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
