@@ -3,7 +3,7 @@ import Home from "./pages/home";
 
 const router = createBrowserRouter([
     {
-        path: "/",
+        path: "/front-end-challenge-maeztra",
         element: <Home />,
     },
 ]);
