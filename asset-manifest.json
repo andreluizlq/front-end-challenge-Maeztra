@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/front-end-challenge-Maeztra/static/css/main.fa34ce06.css",
-    "main.js": "/front-end-challenge-Maeztra/static/js/main.ba2c90ea.js",
+    "main.js": "/front-end-challenge-Maeztra/static/js/main.c70cd574.js",
     "static/media/bannerImage.png": "/front-end-challenge-Maeztra/static/media/bannerImage.1a718a7fb9eaf2e66017.png",
-    "static/media/bannerCollectionMobile.svg": "/front-end-challenge-Maeztra/static/media/bannerCollectionMobile.20cd42b23bc53a1ef4b07c51da03848c.svg",
     "static/media/bannerCollection.png": "/front-end-challenge-Maeztra/static/media/bannerCollection.ce7eced87d0b72e9ff8f.png",
     "static/media/dialogImage.png": "/front-end-challenge-Maeztra/static/media/dialogImage.de375694790d4ade05e0.png",
     "static/media/image1.png": "/front-end-challenge-Maeztra/static/media/image1.fe335105b69995834b5e.png",
     "static/media/image2.png": "/front-end-challenge-Maeztra/static/media/image2.6ee07929514058cb90ab.png",
     "static/media/bannerImageMobile.jpeg": "/front-end-challenge-Maeztra/static/media/bannerImageMobile.129316a2b87ad93b6bec.jpeg",
+    "static/media/bannerCollectionMobile.png": "/front-end-challenge-Maeztra/static/media/bannerCollectionMobile.58392fd1a1107c1c075b.png",
     "index.html": "/front-end-challenge-Maeztra/index.html",
     "main.fa34ce06.css.map": "/front-end-challenge-Maeztra/static/css/main.fa34ce06.css.map",
-    "main.ba2c90ea.js.map": "/front-end-challenge-Maeztra/static/js/main.ba2c90ea.js.map"
+    "main.c70cd574.js.map": "/front-end-challenge-Maeztra/static/js/main.c70cd574.js.map"
   },
   "entrypoints": [
     "static/css/main.fa34ce06.css",
-    "static/js/main.ba2c90ea.js"
+    "static/js/main.c70cd574.js"
   ]
 }
