@@ -9,7 +9,7 @@ import mockBrands from "../../utils/mockBrands";
 import ImageTemplate from "../../components/ImageTemplate";
 import Showcase from "../../components/showcase";
 import bannerCollection from '../../assets/image/bannerCollection/bannerCollection.png'
-import bannerCollectionMobile from '../../assets/image/bannerCollection/bannerCollectionMobile.svg'
+import bannerCollectionMobile from '../../assets/image/bannerCollection/bannerCollectionMobile.png'
 import Newsletter from "../../components/Newsletter";
 import MenuFooter from "../../components/MenuFooter";
 import Footer from "../../components/Footer";
